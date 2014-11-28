@@ -38,7 +38,7 @@
 Ext.define('openHAB.graph.graph', {
     extend: 'Ext.panel.Panel',
     layout: 'border',
-    icon: 'images/database-sql.png',
+    icon: 'images/database-small.png',
     id: 'maintabGraph',
     cls: 'empty',
 
