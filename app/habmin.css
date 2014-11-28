@@ -220,7 +220,7 @@ body .ux-notification-warning {
 }
 
 .ux-notification-warning-icon {
-    background-image: url('../images/exclamation.png');
+    background-image: url('../images/exclamation-small.png');
 }
 
 body .ux-notification-error {
