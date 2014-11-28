@@ -644,7 +644,7 @@ function createUI() {
                                 persistenceService = store.getAt(cnt).get("name");
                             var newItem = {};
                             newItem.text = store.getAt(cnt).get("name");
-                            newItem.icon = "images/database-sql.png";
+                            newItem.icon = "images/database-small.png";
                             newItem.disabled = false;
                             menu.add(newItem);
                         }
